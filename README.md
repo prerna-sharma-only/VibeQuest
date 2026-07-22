@@ -26,7 +26,7 @@ A modern activity recommendation web application built with **Node.js**, **Expre
 
 ---
 
-# ✨ Features
+# ◈ Features
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ Gracefully handles invalid responses.
 
 ---
 
-# 🛠 Tech Stack
+# ◈ Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -94,7 +94,7 @@ Gracefully handles invalid responses.
 
 ---
 
-# 📂 Project Structure
+# ◈ Project Structure
 
 ```text
 VibeQuest/
@@ -115,7 +115,7 @@ VibeQuest/
 
 ---
 
-# ⚙ Installation
+# ◈ Installation
 
 ### Clone the repository
 
@@ -149,9 +149,9 @@ http://localhost:3000
 
 ---
 
-# 🧠 Core Concepts Implemented
+# ◈ Core Concepts Implemented
 
-## ✅ Express Routing
+##  Express Routing
 
 Used GET and POST routes for rendering pages and handling user input.
 
@@ -167,7 +167,7 @@ app.post("/", async (req, res) => {
 
 ---
 
-## 🌐 API Integration using Axios
+##  API Integration using Axios
 
 Fetched activity data from a public REST API.
 
@@ -178,7 +178,7 @@ const result = response.data;
 
 ---
 
-## ⚡ Async / Await
+##  Async / Await
 
 Implemented asynchronous API calls using async/await for cleaner code.
 
@@ -188,7 +188,7 @@ const response = await axios.get(API_URL);
 
 ---
 
-## 📝 Form Handling
+##  Form Handling
 
 Collected user input using Express middleware.
 
@@ -199,7 +199,7 @@ const participants = req.body.participants;
 
 ---
 
-## 🎨 Dynamic Rendering with EJS
+##  Dynamic Rendering with EJS
 
 Rendered API data dynamically on the webpage.
 
@@ -219,7 +219,7 @@ Conditional rendering:
 
 ---
 
-## 🔍 Filtering API Data
+##  Filtering API Data
 
 Compared user selections with API response before displaying the activity.
 
@@ -234,7 +234,7 @@ if (
 
 ---
 
-## ❌ Error Handling
+##  Error Handling
 
 Gracefully handled invalid requests.
 
@@ -254,7 +254,7 @@ try {
 
 ---
 
-## 💎 Modern CSS
+##  Modern CSS
 
 The UI includes:
 
@@ -269,7 +269,7 @@ The UI includes:
 
 ---
 
-# 🔄 Application Flow
+# ◈ Application Flow
 
 ```text
              User Opens Website
@@ -302,12 +302,12 @@ The UI includes:
          Render Activity using EJS
                      │
                      ▼
-          Beautiful Activity Card 🎉
+          Beautiful Activity Card 
 ```
 
 ---
 
-# 📚 Concepts Practiced
+# ◈ Concepts Practiced
 
 - Express.js
 - Routing
@@ -325,17 +325,17 @@ The UI includes:
 
 ---
 
-# 🚀 Future Improvements
+# ◈ Future Improvements
 
-- 🌙 Dark Mode
-- ❤️ Save Favorite Activities
-- 🔄 Refresh Activity
-- 🎯 Advanced Filters
-- 🔐 User Authentication
+-  Dark Mode
+-  Save Favorite Activities
+-  Refresh Activity
+-  Advanced Filters
+-  User Authentication
 
 ---
 
-# 🤝 Contributing
+# ◈ Contributing
 
 Contributions are always welcome!
 
@@ -346,7 +346,7 @@ Contributions are always welcome!
 
 ---
 
-# ⭐ Support
+# ◈ Support
 
 If you found this project helpful,
 
