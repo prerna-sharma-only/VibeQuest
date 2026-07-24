@@ -358,7 +358,12 @@ It motivates me to build more awesome projects.
 
 <div align="center">
 
-### 💻 Built with ❤️ by Prerna Sharma
+### 💻 Built with ❤️ by Prerna Sharma    
+
+<a href="https://github.com/prerna-sharma-only">
+<img src="https://img.shields.io/badge/GitHub-prerna--sharma--only-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>    
+<br>
 
 **Node.js • Express.js • Axios • EJS • CSS**
 
